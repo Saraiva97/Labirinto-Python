@@ -1,6 +1,6 @@
 
 # Projeto: Labirinto Automático em Python
-**Um labirinto formado de forma aleatória em Python**
+**Um Labirinto Formado de Forma Aleatória em Python**
 
 **Objetivo do Projeto**
 - Gerar automaticamente labirintos para proporcionar uma experiência desafiadora e envolvente.
